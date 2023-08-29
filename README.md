@@ -15,6 +15,12 @@
 [![HackerRank](https://img.shields.io/badge/-dilshad__alam-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680){:target="_blank"}
 
 
+[![LinkedIn](https://img.shields.io/badge/-md.dilshad.alam-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md.dilshad.alam){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/-dilshad--alam-purple?style=flat&logo=github&logoColor=white)](https://github.com/dilshad-alam){:target="_blank"}
+[![HackerRank](https://img.shields.io/badge/-dilshad__alam-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dilshad_alam){:target="_blank"}
+
+
+
 
 ## 🚀 Skills & Interests
 
