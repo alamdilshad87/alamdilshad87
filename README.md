@@ -10,8 +10,10 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-md.dilshad-alam-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87/)
-[![GitHub](https://img.shields.io/badge/-dilshad--alam-black?style=flat&logo=github&logoColor=white)](https://github.com/dilshad-alam)
+[![GitHub](https://img.shields.io/badge/-dilshad--alam-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
 [![CodeChef](https://img.shields.io/badge/-dilshad__alam-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
+[![HackerRank](https://img.shields.io/badge/-dilshad__alam-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
+
 
 
 ## 🚀 Skills & Interests
