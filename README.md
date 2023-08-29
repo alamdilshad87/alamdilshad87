@@ -9,16 +9,10 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-md.dilshad-alam-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87/){:target="_blank"}
-[![GitHub](https://img.shields.io/badge/-dilshad--alam-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87){:target="_blank"}
-[![CodeChef](https://img.shields.io/badge/-dilshad__alam-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87){:target="_blank"}
-[![HackerRank](https://img.shields.io/badge/-dilshad__alam-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680){:target="_blank"}
-
-
-[![LinkedIn](https://img.shields.io/badge/-md.dilshad.alam-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md.dilshad.alam){:target="_blank"}
-[![GitHub](https://img.shields.io/badge/-dilshad--alam-purple?style=flat&logo=github&logoColor=white)](https://github.com/dilshad-alam){:target="_blank"}
-[![HackerRank](https://img.shields.io/badge/-dilshad__alam-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dilshad_alam){:target="_blank"}
-
+[![LinkedIn](https://img.shields.io/badge/-alamdilshad87-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
+[![GitHub](https://img.shields.io/badge/-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
+[![CodeChef](https://img.shields.io/badge/-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
+[![HackerRank](https://img.shields.io/badge/-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
 
 
 
