@@ -36,7 +36,7 @@
 - ✍️ Documenting my projects and learnings through well-crafted READMEs.
 - 🤝 Collaborating with others and open to mentorship opportunities.
 
-[!MY GitHub stats](https://github-readme-stats.vercel.app/api?username=alamdilshad87)](https://github.com/alamdilshad87/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alamdilshad87&show_icons=true&theme=transparent)
 
 ## 🌱 Current Focus
 
