@@ -5,15 +5,15 @@
 📚 Learning DSA and sharpening problem-solving skills  
 🚀 Proficient in C, C++, Python, Java, and MySQL  
 💻 Exploring the realms of Web Development and App Development  
-📷 Passionate about photography and skilled in graphic design  
+📷 Passionate about Photography and upskilling in Graphic Designing  
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-alamdilshad87-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
-[![GitHub](https://img.shields.io/badge/-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
-[![CodeChef](https://img.shields.io/badge/-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
-[![HackerRank](https://img.shields.io/badge/-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alamdilshad87-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
+[![GitHub](https://img.shields.io/badge/Github-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
+[![CodeChef](https://img.shields.io/badge/CodeChef-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
+[![HackerRank](https://img.shields.io/badge/HackerRank-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-alamdilshad87-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/alam_dilshad87)
 
 
 ## 🚀 Skills & Interests
@@ -23,6 +23,19 @@
 - 🌐 Exploring the World of Web and App Development
 - 📸 Capturing Moments Through Photography
 - 🎨 Unleashing Creativity in Graphic Design
+  
+## 🚀 Goals and Ambitions
+
+- 🔭 I'm excited to build a collection of impactful projects that solve real-world problems.
+- 🌟 Planning to achieve a 2-star rating on CodeChef by consistently solving coding challenges.
+- 🌍 Dreaming of contributing to open-source projects that make a difference.
+
+## 📂 Projects and Contributions
+
+- 🛠️ I'm gradually building my project portfolio, starting from simple coding challenges to ambitious endeavors.
+- ✍️ Documenting my projects and learnings through well-crafted READMEs.
+- 🤝 Collaborating with others and open to mentorship opportunities.
+
 
 ## 🌱 Current Focus
 
