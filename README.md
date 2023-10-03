@@ -44,3 +44,6 @@ Currently, I'm diving deeper into the world of Data Structures and Algorithms, a
 
 Let's connect and collaborate to create something incredible!
 
+
+[![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/alamdilshad87)](https://www.holopin.io/@alamdilshad87#)
+
