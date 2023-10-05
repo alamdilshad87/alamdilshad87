@@ -47,5 +47,5 @@ Let's connect and collaborate to create something incredible!
 ## My Holopins : 🦖
 
 
-[![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/alamdilshad87)](https://www.holopin.io/@alamdilshad87#)
+[![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alamdilshad87)](https://holopin.io/@alamdilshad87)
 
