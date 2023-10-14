@@ -36,7 +36,6 @@
 - ✍️ Documenting my projects and learnings through well-crafted READMEs.
 - 🤝 Collaborating with others and open to mentorship opportunities.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alamdilshad87&show_icons=true&theme=transparent)
 
 ## 🌱 Current Focus
 
@@ -48,4 +47,17 @@ Let's connect and collaborate to create something incredible!
 
 
 [![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alamdilshad87)](https://holopin.io/@alamdilshad87)
+
+# ⚙️ GitHub Analytics
+  
+<table>
+  <tr>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=alamdilshad87&show_icons=true&theme=dark" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamdilshad87&layout=compact&theme=dark" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="KiranAminPanjwani"/></p>
+  </div>
 
