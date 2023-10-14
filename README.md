@@ -58,6 +58,6 @@ Let's connect and collaborate to create something incredible!
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="KiranAminPanjwani"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="alamdilshad87"/></p>
   </div>
 
