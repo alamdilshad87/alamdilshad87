@@ -1,5 +1,8 @@
 # Hey there, I'm Md Dilshad Alam! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=1000&color=F7291D&vCenter=true&random=false&width=500&lines=Learning+Full+Stack+Development;Intemediate+Graphic+Designer;Learning+New+Skills)](https://git.io/typing-svg)
+
+
 🎓 Studying at SRM Institute of Science and Technology  
 🌟 Approaching towards 2 stars on CodeChef  
 📚 Learning DSA and sharpening problem-solving skills  
@@ -66,4 +69,3 @@ Let's connect and collaborate to create something incredible!
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="alamdilshad87"/></p>
   </div>
-
