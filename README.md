@@ -69,3 +69,9 @@ Let's connect and collaborate to create something incredible!
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="alamdilshad87"/></p>
   </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamdilshad87&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alamdilshad87&icon=0&color=0)](https://visitcount.itsvg.in)
