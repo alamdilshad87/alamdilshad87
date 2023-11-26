@@ -49,6 +49,7 @@ Let's connect and collaborate to create something incredible!
 ## Cloud Badges
 
 <img src="./aws-academy-graduate-aws-academy-cloud-foundations.png" width="220" height="220">  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="220" height="220">  <img src="Google_Cloud_Lvl3.png" width="220" height="220">
+<img src="./Badges/Generative AI.png" width="220" height="220">
 
 
 
