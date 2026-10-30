@@ -1,79 +1,215 @@
-# Hey there, I'm Md Dilshad Alam! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=4000&pause=1000&color=F7291D&vCenter=true&random=false&width=500&lines=Learning+Full+Stack+Development;Intemediate+Graphic+Designer;Learning+New+Skills)](https://git.io/typing-svg)
-
-
-🎓 Studying at SRM Institute of Science and Technology  
-🌟 Approaching towards 2 stars on CodeChef  
-📚 Learning DSA and sharpening problem-solving skills  
-🚀 Proficient in C, C++, Python, Java, and MySQL  
-💻 Exploring the realms of Web Development and App Development  
-📷 Passionate about Photography and upskilling in Graphic Designing  
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alamdilshad87-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
-[![GitHub](https://img.shields.io/badge/Github-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
-[![CodeChef](https://img.shields.io/badge/CodeChef-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
-[![HackerRank](https://img.shields.io/badge/HackerRank-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-alamdilshad87-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/alam_dilshad87)
-
-
-## 🚀 Skills & Interests
-
-- 📊 Problem Solving in Data Structures and Algorithms
-- 💻 Competent in C, C++, Python, Java, and MySQL
-- 🌐 Exploring the World of Web and App Development
-- 📸 Capturing Moments Through Photography
-- 🎨 Unleashing Creativity in Graphic Design
-  
-## 🚀 Goals and Ambitions
-
-- 🔭 I'm excited to build a collection of impactful projects that solve real-world problems.
-- 🌟 Planning to achieve a 2-star rating on CodeChef by consistently solving coding challenges.
-- 🌍 Dreaming of contributing to open-source projects that make a difference.
-
-## 📂 Projects and Contributions
-
-- 🛠️ I'm gradually building my project portfolio, starting from simple coding challenges to ambitious endeavors.
-- ✍️ Documenting my projects and learnings through well-crafted READMEs.
-- 🤝 Collaborating with others and open to mentorship opportunities.
-
-
-## 🌱 Current Focus
-
-Currently, I'm diving deeper into the world of Data Structures and Algorithms, aiming to enhance my problem-solving skills and achieve a 2-star rating on CodeChef. Simultaneously, I'm also crafting my skills in web and app development to turn my innovative ideas into reality. When I'm not coding, you can find me with a camera, capturing the beauty around, or immersed in creative graphic design projects.
-
-Let's connect and collaborate to create something incredible!
-
-## Cloud Badges
-
-<img src="./aws-academy-graduate-aws-academy-cloud-foundations.png" width="220" height="220">  <img src="aws-academy-graduate-aws-academy-cloud-architecting.png" width="220" height="220">  <img src="Google_Cloud_Lvl3.png" width="220" height="220">  <img src="./Badges/Generative AI.png" width="250" height="240">  <img src="./Badges/Fundamentals.png" width="250" height="240">  <img src="./Badges/Infra.png" width="250" height="240">  <img src="./Badges/Networking.png" width="250" height="240">  <img src="./Badges/Data.png" width="250" height="240">  <img src="./Badges/Manage.png" width="300" height="240">  <img src="./Badges/Build.png" width="300" height="240">  <img src="./Badges/Samrt.png" width="300" height="240">  <img src="./Badges/Found Infra.png" width="300" height="240">
-
-
-
-
-
-## My Holopins : 🦖
-
-
-[![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alamdilshad87)](https://holopin.io/@alamdilshad87)
-
-# ⚙️ GitHub Analytics
-  
-<table>
-  <tr>
-<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=alamdilshad87&show_icons=true&theme=dark" />
-    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamdilshad87&layout=compact&theme=dark" /></td>
-  </tr>
-</table>
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamdilshad87&layout=compact&theme=dark" alt="alamdilshad87"/></p>
-  </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamdilshad87&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=MD%20DILSHAD%20ALAM&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas.%20Designing%20Experiences.&descSize=20&descAlignY=60" alt="MD Dilshad Alam banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+Developer+%C3%97+Visual+Designer;Full-Stack+Engineer+%7C+.NET+%2B+Angular;Event+Branding+%7C+Photography+%7C+VFX;Code+is+how+I+build.+Design+is+how+I+speak." alt="Typing animation" />
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-alamdilshad87-181717?style=for-the-badge&logo=github)](https://github.com/alamdilshad87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alamdilshad87)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance)](https://www.behance.net/alamdilshad87)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alamdilshad87&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎭 Two Brains, One Builder
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 The Engineer
+*Logic, structure, systems.*
+
+I build reliable backends, clean REST APIs and full-stack apps that do what they promise.
+
+`C#` · `.NET` · `Angular` · `SQL Server` · `Redis` · `JWT` · `Swagger`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 The Designer
+*Emotion, rhythm, identity.*
+
+I turn events and ideas into visual worlds: posters, brand systems, social creatives and motion.
+
+`Branding` · `Posters` · `Social Media` · `Photography` · `Video Editing` · `VFX`
+
+</td>
+</tr>
+</table>
+
+> **The overlap is where I do my best work:** software that works *and* feels good to use.
+
+---
+
+## 🧾 About Me
+
+```text
+$ whoami
+> Md Dilshad Alam
+
+$ cat about.txt
+> 2026 Computer Science & Engineering graduate, SRMIST.
+> Curious about backend systems, APIs, databases and AI.
+> Equally at home in an IDE and in a design canvas.
+
+$ status
+> Open to opportunities and meaningful collaborations ✨
+```
+
+---
+
+## 🛠️ Toolbox
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css" alt="C, C++, C Sharp, Java, Python, JavaScript, HTML and CSS" />
+
+**Frameworks & Development**
+
+<img src="https://skillicons.dev/icons?i=dotnet,angular,flask,django" alt=".NET, Angular, Flask and Django" />
+
+**Databases, Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,git,github,postman,vscode,visualstudio" alt="MySQL, MongoDB, PostgreSQL, Redis, Git, GitHub, Postman, VS Code and Visual Studio" />
+
+<details>
+<summary><b>➕ More tech I work with</b></summary>
+<br/>
+
+`FastAPI` · `Flask` · `React` · `FAISS` · `Docker` · `RAG` · `ASP.NET Core` · `ASP.NET WebForms` · `ASP.NET Web API` · `ADO.NET` · `Entity Framework` · `RxJS` · `NUnit` · `NLog` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch` · `OpenCV`
+
+</details>
+
+---
+
+## 🚀 Featured Work
+
+### 🤖 Self-Hosted AI Support System
+*Offline document Q&A using Retrieval-Augmented Generation (RAG).*
+
+- Built chunking, embeddings and **FAISS** vector search to retrieve relevant answers from documents
+- Developed REST endpoints with **FastAPI** and containerized the app with **Docker**
+- Evaluated with **40+ test cases**, reaching an **85% pass rate**
+
+`Python` · `FastAPI` · `FAISS` · `Docker`
+
+### 🎯 JobMatrix: AI-Based Resume Matching
+*Ranks candidate resumes against a job description.*
+
+- Scored relevance with **TF-IDF vectorization** and **cosine similarity**
+- Built parsing workflows to extract structured text from **PDF and DOCX** resumes
+- Automated **Top-5 candidate ranking** to speed up screening
+
+`Python` · `Flask` · `NLP` · `Scikit-learn`
+
+### 🛡️ SpecGuard: Intelligent API Analysis Platform
+*Turns OpenAPI specs and source code into docs, examples and tests.*
+
+- Generates API documentation, examples and test cases automatically
+- **Version comparison** that flags breaking changes in endpoints, request schemas and response contracts
+- Automated testing workflows covering positive, negative and edge cases, with backend and frontend integrated
+
+`.NET Core` · `FastAPI` · `React` · `PostgreSQL`
+
+---
+
+## 🎨 Creative Side
+
+<div align="center">
+
+*When I'm not shipping APIs, I'm shaping how things look, feel and get remembered.*
+
+![](https://img.shields.io/badge/-%20%20%20%20-A78BFA?style=flat-square) ![](https://img.shields.io/badge/-%20%20%20%20-7C3AED?style=flat-square) ![](https://img.shields.io/badge/-%20%20%20%20-1769FF?style=flat-square) ![](https://img.shields.io/badge/-%20%20%20%20-0EA5E9?style=flat-square) ![](https://img.shields.io/badge/-%20%20%20%20-F472B6?style=flat-square) ![](https://img.shields.io/badge/-%20%20%20%20-181717?style=flat-square)
+
+</div>
+
+### 🎪 Featured Studio: AARUUSH, SRMIST
+
+As part of the **Creative Committee**, I helped give a large college festival its look and voice:
+
+| | Craft | What I made |
+|:-:|---|---|
+| 🖼️ | **Posters & Banners** | Eye-catching event visuals built to stop the scroll and the crowd |
+| 📱 | **Social Media Creatives** | Consistent, on-brand content for fast-moving promotion |
+| 🏷️ | **Event Branding** | Visual identity that ties every touchpoint together |
+| 🎬 | **Production Support** | Creative production behind the scenes |
+
+### 🔄 How I Design
+
+```mermaid
+flowchart LR
+    A[💡 Brief] --> B[🧠 Concept] --> C[✏️ Design] --> D[🔁 Refine] --> E[🚀 Deliver]
+    style A fill:#A78BFA,stroke:#7C3AED,color:#fff
+    style B fill:#7C3AED,stroke:#5B21B6,color:#fff
+    style C fill:#1769FF,stroke:#0F4FCC,color:#fff
+    style D fill:#0EA5E9,stroke:#0369A1,color:#fff
+    style E fill:#F472B6,stroke:#DB2777,color:#fff
+```
+
+### 🎞️ Beyond the Canvas
+
+📸 **Photography**: visual storytelling through the lens  
+🎥 **Video Editing & VFX**: motion, pacing and effects  
+✍️ **Editorial (SRMKzilla)**: words and layouts that communicate  
+🌍 **Open-source learning**: building and contributing in public  
+🤝 **Student Affairs Committee**: coordinating events and keeping them running smoothly
+
+<div align="center">
+
+<br/>
+
+<a href="https://www.behance.net/alamdilshad87">
+  <img src="https://img.shields.io/badge/ENTER%20THE%20GALLERY-Behance%20Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Open Behance portfolio" />
+</a>
+
+</div>
+
+---
+
+## 🧪 Currently Exploring
+
+- 🏗️ Backend engineering & software architecture
+- 🔌 Reliable, maintainable REST APIs
+- 🤖 AI applications, LLMs and RAG
+- 📊 Data analytics & machine learning
+- ✨ Modern frontend & interactive web experiences
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages" />
+
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+Whether it's an API, a brand, or an idea that needs both, I'd love to hear about it.
+
+<div align="center">
+
+<a href="https://github.com/alamdilshad87"><img src="https://img.shields.io/badge/GitHub-@alamdilshad87-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/alamdilshad87"><img src="https://img.shields.io/badge/LinkedIn-Md%20Dilshad%20Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/alamdilshad87"><img src="https://img.shields.io/badge/Behance-Creative%20Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+
+<br/>
+
+*Code is how I build. Design is how I communicate. Curiosity is what drives me.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+
+</div>
