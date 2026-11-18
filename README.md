@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=MD%20DILSHAD%20ALAM&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas.%20Designing%20Experiences.&descSize=20&descAlignY=60" alt="MD Dilshad Alam banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+Developer+%C3%97+Visual+Designer;Full-Stack+Engineer+%7C+.NET+%2B+Angular;Event+Branding+%7C+Photography+%7C+VFX;Code+is+how+I+build.+Design+is+how+I+speak." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Software+Developer+%C3%97+Visual+Designer;Full-Stack+Engineer+%7C+.NET+%2B+Angular;Backend+APIs+%7C+RAG+%7C+AI+Systems;Code+is+how+I+build.+Design+is+how+I+speak." alt="Typing animation" />
 </a>
 
 <br/>
@@ -59,7 +59,8 @@ $ cat about.txt
 > Equally at home in an IDE and in a design canvas.
 
 $ status
-> Open to opportunities and meaningful collaborations ✨
+> Open to SDE, backend (.NET) and full-stack roles ✨
+> India, remote or relocation
 ```
 
 ---
@@ -88,6 +89,16 @@ $ status
 
 ---
 
+## 💼 Experience
+
+**.NET Developer Intern · BridgeLabz** · Oct 2025 to Jan 2026
+
+- Built RESTful APIs in **ASP.NET Core Web API** with layered architecture, **JWT** auth and **Redis** caching, documented with Swagger and tested with NUnit
+- Designed **SQL Server** schemas and queries for database-driven apps
+- Built the **Angular** frontend for [FundooNotes](https://github.com/alamdilshad87/FundooNotes_Frontend) on top of the [FundooNotes API](https://github.com/alamdilshad87/FundooNotes)
+
+---
+
 ## 🚀 Featured Work
 
 ### 🤖 Self-Hosted AI Support System
@@ -99,6 +110,8 @@ $ status
 
 `Python` · `FastAPI` · `FAISS` · `Docker`
 
+📂 [Repository](https://github.com/alamdilshad87/SLM-Major-Proj) (team project)
+
 ### 🎯 JobMatrix: AI-Based Resume Matching
 *Ranks candidate resumes against a job description.*
 
@@ -107,6 +120,8 @@ $ status
 - Automated **Top-5 candidate ranking** to speed up screening
 
 `Python` · `Flask` · `NLP` · `Scikit-learn`
+
+📂 [Repository](https://github.com/alamdilshad87/JobMatrix_NLP) · 🌐 [Live demo](https://jobmatrix-nlp.onrender.com/)
 
 ### 🛡️ SpecGuard: Intelligent API Analysis Platform
 *Turns OpenAPI specs and source code into docs, examples and tests.*
